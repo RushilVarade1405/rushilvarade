@@ -1,61 +1,31 @@
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  ██████╗ ██╗   ██╗███████╗██╗  ██╗██╗██╗                   │
-│  ██╔══██╗██║   ██║██╔════╝██║  ██║██║██║                   │
-│  ██████╔╝██║   ██║███████╗███████║██║██║                   │
-│  ██╔══██╗██║   ██║╚════██║██╔══██║██║██║                   │
-│  ██║  ██║╚██████╔╝███████║██║  ██║██║███████╗              │
-│  ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝╚══════╝              │
-│                                                             │
-│  Cybersecurity Enthusiast · Ethical Hacker · Builder        │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+```
+=[ metasploit v6.3.x-dev                          ]
++ -- --=[ 2387 exploits - 1232 auxiliary - 413 post  ]
++ -- --=[ 1056 payloads - 45 encoders - 11 nops       ]
++ -- --=[ 9 evasion                                   ]
 
-→ CURRENT.STATUS
-HACKING   [████████░░░░░░░░░░░░] 40%
-LEARNING  [█████████████░░░░░░░] 65%
-BUILDING  [██████░░░░░░░░░░░░░░] 30%
+msf6 > use exploit/human/rushil_varade
+[*] No payload configured, defaulting to...
+[+] Target acquired → Cybersecurity Enthusiast | Ethical Hacker
+[*] Session 1 opened → github.com/RushilVarade1405
+```
+```bash
+┌──(rushil㉿kali)-[~]
+└─$ whoami
+> fresher · breaker of things (legally) · CTF grinder
 
-$ whoami
-A cybersecurity fresher focused on VAPT, SOC operations, and ethical hacking.
-Passionate about finding vulnerabilities, building security tools, and breaking
-things (legally). Currently hunting for my first role in offensive/defensive security.
+┌──(rushil㉿kali)-[~]
+└─$ uname -a
+> Kali Linux | Python | Bash | Always in a terminal
 
-* Primary OS  : Kali Linux
-* Main Lang   : Python / Bash / PowerShell
-* Interests   : Penetration Testing, VAPT, SOC, Digital Forensics, Red Teaming
-* Currently   : Pursuing CEH | Practicing on TryHackMe
+┌──(rushil㉿kali)-[~]
+└─$ cat interests.txt
+> VAPT · SOC · Red Teaming · Digital Forensics · Steganography
 
-$ ls -la /toolkit/
-
-| Category       | Tools / Skills                                      |
-|----------------|-----------------------------------------------------|
-| WEB PENTEST    | Burp Suite, OWASP Top 10, SQLMap, Nikto, Nmap       |
-| NETWORK SEC    | Wireshark, Nessus, Nmap, Firewall, IDS/IPS, VPN     |
-| OSINT          | Maltego, OSINT Framework, Recon-ng                  |
-| EXPLOITATION   | Metasploit, Msfvenom, Netcat                        |
-| SCRIPTING      | Python, Bash, PowerShell                            |
-| SIEM / SOC     | Splunk (Basics), OpenVAS, Log Analysis              |
-| OS & LINUX     | Kali Linux, Windows Server, Linux CLI, Priv Esc     |
-| CTFs / LABS    | TryHackMe (Advent of Cyber 2025 ✅), OWASP Labs     |
-
-$ cat /projects/featured.log
-
-* [Document Summarization Tool]   — AI-driven document Q&A and summarization system
-* [Image Steganography]           — Covert data hiding inside images/audio/text files
-* [Cybersecurity Portfolio Site]  — Responsive frontend showcasing tools & cyber laws
-
-$ cat /certs/completed.log
-
-* Cybersecurity Fundamentals     — ✅ Completed
-* Specialization in Pen Testing  — ✅ Completed
-* Certified Ethical Hacker (CEH) — 🔄 In Progress
-
-$ finger @rushil
-* GitHub   : github.com/RushilVarade1405
-* LinkedIn : linkedin.com/in/Rushil-Varade
-* Email    : rushilvarade@gmail.com
-* THM Room : TryHackMe/RushilVarade
+┌──(rushil㉿kali)-[~]
+└─$ cat now.txt
+> Pursuing CEH · Grinding TryHackMe · Open to sec roles
+```
 
 ---
 
@@ -66,6 +36,18 @@ $ finger @rushil
 
 # 🕵️ Hacking Toolkit:
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) ![Metasploit](https://img.shields.io/badge/metasploit-%23E34F26.svg?style=for-the-badge&logo=metasploit&logoColor=white) ![Wireshark](https://img.shields.io/badge/wireshark-%231679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white) ![Burp Suite](https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white) ![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=for-the-badge&logo=tryhackme&logoColor=white) ![Nmap](https://img.shields.io/badge/nmap-%230E83CD.svg?style=for-the-badge&logo=nmap&logoColor=white)
+
+---
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RushilVarade1405&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=RushilVarade1405&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RushilVarade1405&theme=dark&hide_border=false&layout=compact)
+
+---
+
+# 🏆 Trophies:
+![](https://github-profile-trophy.vercel.app/?username=RushilVarade1405&theme=matrix&no-frame=true&no-bg=false&margin-w=4)
 
 ---
 
