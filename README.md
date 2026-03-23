@@ -1,54 +1,177 @@
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
+<!--                    RUSHIL VARADE — GitHub Profile README                   -->
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
 ```
-=[ metasploit v6.3.x-dev                          ]
-+ -- --=[ 2387 exploits - 1232 auxiliary - 413 post  ]
-+ -- --=[ 1056 payloads - 45 encoders - 11 nops       ]
-+ -- --=[ 9 evasion                                   ]
-
-msf6 > use exploit/human/rushil_varade
-[*] No payload configured, defaulting to...
-[+] Target acquired → Cybersecurity Enthusiast | Ethical Hacker
-[*] Session 1 opened → github.com/RushilVarade1405
-```
-```bash
-┌──(rushil㉿kali)-[~]
-└─$ whoami
-> fresher · breaker of things (legally) · CTF grinder
-
-┌──(rushil㉿kali)-[~]
-└─$ uname -a
-> Kali Linux | Python | Bash | Always in a terminal
-
-┌──(rushil㉿kali)-[~]
-└─$ cat interests.txt
-> VAPT · SOC · Red Teaming · Digital Forensics · Steganography
-
-┌──(rushil㉿kali)-[~]
-└─$ cat now.txt
-> Pursuing CEH · Grinding TryHackMe · Open to sec roles
+███╗   ███╗███████╗███████╗ ██████╗ ██████╗ ███╗   ██╗███████╗ ██████╗ ██╗     ███████╗
+████╗ ████║██╔════╝██╔════╝██╔════╝██╔═══██╗████╗  ██║██╔════╝██╔═══██╗██║     ██╔════╝
+██╔████╔██║█████╗  ███████╗██║     ██║   ██║██╔██╗ ██║███████╗██║   ██║██║     █████╗  
+██║╚██╔╝██║██╔══╝  ╚════██║██║     ██║   ██║██║╚██╗██║╚════██║██║   ██║██║     ██╔══╝  
+██║ ╚═╝ ██║███████╗███████║╚██████╗╚██████╔╝██║ ╚████║███████║╚██████╔╝███████╗███████╗
+╚═╝     ╚═╝╚══════╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝ ╚═════╝ ╚══════╝╚══════╝
 ```
 
----
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+</div>
 
 ---
 
-# 🕵️ Hacking Toolkit:
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) ![Metasploit](https://img.shields.io/badge/metasploit-%23E34F26.svg?style=for-the-badge&logo=metasploit&logoColor=white) ![Wireshark](https://img.shields.io/badge/wireshark-%231679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white) ![Burp Suite](https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white) ![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=for-the-badge&logo=tryhackme&logoColor=white) ![Nmap](https://img.shields.io/badge/nmap-%230E83CD.svg?style=for-the-badge&logo=nmap&logoColor=white)
+```
+      =[ metasploit v6.x.x-rushil                                     ]
++ -- --=[ Offensive Security | VAPT | Red Teaming | Security Research ]
++ -- --=[ Modules: Web App Pentesting · Network Sec · Digital Forensics]
++ -- --=[ Location: Maharashtra, India                                  ]
+
+msf6 > whoami
+```
+
+```
+[*] Initializing profile...
+[+] Target acquired: rushilvarade@gmail.com
+[+] Session established.
+
+RUSHIL LAKSHMIKANT VARADE
+─────────────────────────────────────────────────────────────
+Offensive Security Enthusiast | VAPT | SOC | Red Team Concepts
+─────────────────────────────────────────────────────────────
+An offensive security enthusiast with hands-on experience in
+vulnerability assessment and penetration testing (VAPT).
+Focused on web application security, exploit concepts, custom
+security tooling, and digital forensics.
+
+Primary OS   : Kali Linux (BTW)
+Main Lang    : Python · Bash · Java · SQL · PowerShell
+Interests    : Penetration Testing · Cryptography · Red Teaming
+               Digital Forensics · Cyber Laws · SOC Operations
+```
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RushilVarade1405&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=RushilVarade1405&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RushilVarade1405&theme=dark&hide_border=false&layout=compact)
+```
+msf6 > show status
+```
+
+```
+CURRENT.STATUS
+─────────────────────────────────────────────────────────────
+BUILDING     [████████████░░░░░░░░]  60%  — Offensive Tooling
+LEARNING     [████████░░░░░░░░░░░░]  40%  — CEH Certification
+SLEEPING     [░░░░░░░░░░░░░░░░░░░░]  00%  — No time for that
+```
 
 ---
 
-# 🏆 Trophies:
-![](https://github-profile-trophy.vercel.app/?username=RushilVarade1405&theme=matrix&no-frame=true&no-bg=false&margin-w=4)
+```
+msf6 > ls -la /toolkit/
+```
+
+```
+drwxr-xr-x  rushil  /toolkit/
+├── [WEB PENTEST]     Nmap · Burp Suite · SQLMap · Nikto · OWASP Top 10
+├── [RECON / OSINT]   Maltego · OSINT Frameworks · Nessus
+├── [NETWORK]         Wireshark · TCP/UDP · DNS · DHCP · IDS/IPS · VPN
+├── [SCRIPTING]       Python · Bash · PowerShell · Java · SQL
+├── [FORENSICS]       Digital Forensics · Cyber Laws · Compliance
+├── [INFRA/OS]        Kali Linux · Windows Server · macOS · Linux Internals
+└── [CTF / LABS]      TryHackMe · OWASP Top 10 · OpenVAS · Splunk (SIEM)
+```
 
 ---
 
-![](https://visitcount.itsvg.in/api?id=RushilVarade1405&icon=6&color=1)
+```
+msf6 > cat /projects/featured.log
+```
+
+```
+[*] Loading project manifest...
+
+[PROJECT-01] Document Summarization Tool                          [AI / NLP]
+─────────────────────────────────────────────────────────────────────────────
+ ├─ AI-driven document handling system for rapid information extraction
+ ├─ Features: Summarization · Q&A · Adaptive learning from interactions
+ └─ Stack: Python · NLP Libraries
+
+[PROJECT-02] Image Steganography                       [Security / Cryptography]
+─────────────────────────────────────────────────────────────────────────────
+ ├─ Embeds confidential data within media files (image, audio, text)
+ ├─ Covert communication — conceals message existence, not just content
+ └─ Modules: Encode · Decode · Secure transmission pipeline
+
+[PROJECT-03] Cybersecurity Learning & Portfolio Platform        [Web / Frontend]
+─────────────────────────────────────────────────────────────────────────────
+ ├─ Modern, responsive frontend cybersecurity showcase platform
+ ├─ Covers: Security tools · Cyber laws · Educational resources
+ └─ Cross-device responsive design (mobile · tablet · desktop)
+```
+
+---
+
+```
+msf6 > cat /certs/active.log
+```
+
+```
+[+] Cybersecurity Fundamentals              .............. [COMPLETED]
+[+] Specialization in Penetration Testing   .............. [COMPLETED]
+[~] Certified Ethical Hacker (CEH)          .............. [IN PROGRESS]
+```
+
+---
+
+```
+msf6 > cat /training/tryhackme.log
+```
+
+```
+[*] TryHackMe Completed Labs:
+ ├─ OWASP Top 10              — Web application vulnerability exploitation
+ ├─ OpenVAS                   — Vulnerability scanning and assessment
+ ├─ Splunk (SIEM Basics)      — Log monitoring and security event analysis
+ ├─ Linux CLI                 — Command-line, file handling, system navigation
+ └─ Advent of Cyber 2025      — 24-day cybersecurity challenge series
+```
+
+---
+
+```
+msf6 > finger @contact
+```
+
+```
+[*] Profile data:
+
+ Email     : rushilvarade@gmail.com
+ Phone     : +91-9136011065
+ GitHub    : github.com/RushilVarade1405
+ LinkedIn  : linkedin.com/in/rushil-varade
+ PGP Key   : 2659 48C7 4798 E5AC E7B1  F18A BB7F 7ACE 13B1 743B
+```
+
+---
+
+```
+msf6 > exit
+
+[*] Shutting down session...
+[+] Thanks for visiting. Stay ethical. Stay sharp.
+
+  ██████╗ ██╗   ██╗███████╗
+ ██╔══██╗╚██╗ ██╔╝██╔════╝
+ ██████╔╝ ╚████╔╝ █████╗  
+ ██╔══██╗  ╚██╔╝  ██╔══╝  
+ ██████╔╝   ██║   ███████╗
+ ╚═════╝    ╚═╝   ╚══════╝
+```
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=RushilVarade1405&color=red&style=flat-square)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/RushilVarade1405?label=Follow&style=flat-square&color=red)](https://github.com/RushilVarade1405)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rushil--Varade-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/rushil-varade)
+
+</div>
